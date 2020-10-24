@@ -4,11 +4,7 @@
 #include "image.h"
 
 int lcm(int a,int b){
-    static int m = 0;
-    m += a;
-    if(m%b == 0)
-        return m;
-    return lcm(a,b);
+    return (a*b/__gcd(a, b));
 }
 
 int main(){
