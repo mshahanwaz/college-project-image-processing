@@ -27,8 +27,6 @@ After doing any operation, one can restore the image using Restore option in pro
 - Original BMP Image
 	<img src="/ScreenShots/original.png" height="300">
 
-	:arrow_down:
-
 1. Gray Scale
 	<img src="/ScreenShots/grey.png" height="300">
 
