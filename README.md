@@ -26,14 +26,11 @@ After doing any operation, one can restore the image using Restore option in pro
 ### Effects
 - Original BMP Image
 	<img src="/ScreenShots/original.png" height="300">
-
-1. Gray Scale
+- Gray Scale
 	<img src="/ScreenShots/grey.png" height="300">
-
-2. Binary
+- Binary
 	<img src="/ScreenShots/binary.png" height="300">
-
-3. Negative
+- Negative
 	<img src="/ScreenShots/negative.png" height="300">
 
 ### Filters
@@ -44,7 +41,6 @@ After doing any operation, one can restore the image using Restore option in pro
 3. *Sharpen*
 	<img src="/ScreenShots/filter_3.png" height="300">
 
-...many more
 
 
 
