@@ -18,3 +18,7 @@ Simple program to process any bmp image file.
 - Detection Change
 
 After doing any operation, one can restore the image using Restore option in program.
+
+## Screen Shots
+#### Original BMP Image
+![original image](/ScreenShots/original.png)
