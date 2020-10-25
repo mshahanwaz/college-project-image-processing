@@ -21,30 +21,30 @@ After doing any operation, one can restore the image using Restore option in pro
 
 ## Screen Shots
 #### Menu
-<img src="/ScreenShots/menu.png" width=100>	
+<img src="/ScreenShots/menu.png" height="300">	
 
 ### Effects
-#### Original BMP Image
-<img src="/ScreenShots/original.png" width=100>
+1. #### Original BMP Image
+	<img src="/ScreenShots/original.png" height="300">
 
-#### Gray Scale
-<img src="/ScreenShots/grey.png" width=100>
+2. #### Gray Scale
+	<img src="/ScreenShots/grey.png" height="300">
 
-#### Binary
-<img src="/ScreenShots/binary.png" width=100>
+3. #### Binary
+	<img src="/ScreenShots/binary.png" height="300">
 
-#### Negative
-<img src="/ScreenShots/negative.png" width=100>
+4. #### Negative
+	<img src="/ScreenShots/negative.png" height="300">
 
 ### Filters
 #### #1
-<img src="/ScreenShots/filter_1.png" width=100>
+<img src="/ScreenShots/filter_1.png" height="300">
 
 #### #2
-<img src="/ScreenShots/filter_2.png" width=100>
+<img src="/ScreenShots/filter_2.png" height="300">
 
 #### #3
-<img src="/ScreenShots/filter_3.png" width=100>
+<img src="/ScreenShots/filter_3.png" height="300">
 
 
 
