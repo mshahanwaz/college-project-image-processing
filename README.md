@@ -20,32 +20,33 @@ Simple program to process any bmp image file.
 After doing any operation, one can restore the image using Restore option in program.
 
 ## Screen Shots
-#### Menu
+### Menu
 <img src="/ScreenShots/menu.png" height="300">	
 
 ### Effects
-1. #### Original BMP Image
+- Original BMP Image
 	<img src="/ScreenShots/original.png" height="300">
 
-2. #### Gray Scale
+	:arrow_down:
+
+1. Gray Scale
 	<img src="/ScreenShots/grey.png" height="300">
 
-3. #### Binary
+2. Binary
 	<img src="/ScreenShots/binary.png" height="300">
 
-4. #### Negative
+3. Negative
 	<img src="/ScreenShots/negative.png" height="300">
 
 ### Filters
-#### #1
-<img src="/ScreenShots/filter_1.png" height="300">
+1. *Blur*
+	<img src="/ScreenShots/filter_1.png" height="300">
+2. *Motion Blur*
+	<img src="/ScreenShots/filter_2.png" height="300">
+3. *Sharpen*
+	<img src="/ScreenShots/filter_3.png" height="300">
 
-#### #2
-<img src="/ScreenShots/filter_2.png" height="300">
-
-#### #3
-<img src="/ScreenShots/filter_3.png" height="300">
-
+...many more
 
 
 
