@@ -1,5 +1,5 @@
 # Image Processing Program in C
-Simple program to process any bmp image file.
+Simple program to process any **BMP** image file.
 
 ## Features
 - Provides details of image
@@ -22,40 +22,55 @@ After doing any operation, one can restore the image using Restore option in pro
 ## Screen Shots
 
 ### Menu
-
-<img src="/ScreenShots/menu.png" height="300">	
+<p align="center">
+	<img src="/ScreenShots/menu.png" height="350">
+</p>
 
 ### Effects
 
 - Original BMP Image
 	
-	<img src="/ScreenShots/original.png" height="300">
+	<p align="center">
+		<img src="/ScreenShots/original.png" height="300">
+	</p>
 
 1. Gray Scale
 	
-	<img src="/ScreenShots/grey.png" height="300">
+	<p align="center">
+		<img src="/ScreenShots/grey.png" height="300">
+	</p>
 
 2. Binary
 	
-	<img src="/ScreenShots/binary.png" height="300">
+	<p align="center">
+		<img src="/ScreenShots/binary.png" height="300">
+	</p>
 
 3. Negative
 	
-	<img src="/ScreenShots/negative.png" height="300">
+	<p align="center">
+		<img src="/ScreenShots/negative.png" height="300">
+	</p>
 
 ### Filters
 
 1. *Blur*
 	
-	<img src="/ScreenShots/filter_1.png" height="300">
+	<p align="center">
+		<img src="/ScreenShots/filter_1.png" height="300">
+	</p>
 
 2. *Motion Blur*
 	
-	<img src="/ScreenShots/filter_2.png" height="300">
+	<p align="center">
+		<img src="/ScreenShots/filter_2.png" height="300">
+	</p>
 
 3. *Sharpen*
 	
-	<img src="/ScreenShots/filter_3.png" height="300">
+	<p align="center">
+		<img src="/ScreenShots/filter_3.png" height="300">
+	</p>
 
 ...many more.
 
