@@ -23,7 +23,7 @@ After doing any operation, one can restore the image using Restore option in pro
 
 ### Menu
 <p align="center">
-	<img src="/ScreenShots/menu.png" height="350">
+	<img src="/screenshots/menu.png" height="350">
 </p>
 
 ### Effects
@@ -31,25 +31,25 @@ After doing any operation, one can restore the image using Restore option in pro
 - Original BMP Image
 	
 	<p align="center">
-		<img src="/ScreenShots/original.png" height="300">
+		<img src="/screenshots/original.png" height="300">
 	</p>
 
 1. Gray Scale
 	
 	<p align="center">
-		<img src="/ScreenShots/grey.png" height="300">
+		<img src="/screenshots/grey.png" height="300">
 	</p>
 
 2. Binary
 	
 	<p align="center">
-		<img src="/ScreenShots/binary.png" height="300">
+		<img src="/screenshots/binary.png" height="300">
 	</p>
 
 3. Negative
 	
 	<p align="center">
-		<img src="/ScreenShots/negative.png" height="300">
+		<img src="/screenshots/negative.png" height="300">
 	</p>
 
 ### Filters
@@ -57,19 +57,19 @@ After doing any operation, one can restore the image using Restore option in pro
 1. *Blur*
 	
 	<p align="center">
-		<img src="/ScreenShots/filter_1.png" height="300">
+		<img src="/screenshots/filter_1.png" height="300">
 	</p>
 
 2. *Motion Blur*
 	
 	<p align="center">
-		<img src="/ScreenShots/filter_2.png" height="300">
+		<img src="/screenshots/filter_2.png" height="300">
 	</p>
 
 3. *Sharpen*
 	
 	<p align="center">
-		<img src="/ScreenShots/filter_3.png" height="300">
+		<img src="/screenshots/filter_3.png" height="300">
 	</p>
 
 ...many more.
